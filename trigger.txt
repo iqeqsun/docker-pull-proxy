@@ -1,1 +1,4 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+alpine:20240606 registry.cn-hangzhou.aliyuncs.com/xfxgsun/alpine:20240606
+donknap/dpanel:latest registry.cn-hangzhou.aliyuncs.com/xfxgsun/donknap/dpanel:latest
+cloudnas/clouddrive2:0.7.6 registry.cn-hangzhou.aliyuncs.com/xfxgsun/cloudnas/clouddrive2:0.7.6
+wiznote/wizserver:latest registry.cn-hangzhou.aliyuncs.com/xfxgsun/wiznote/wizserver:latest
